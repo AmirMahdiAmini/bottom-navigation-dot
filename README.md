@@ -68,7 +68,3 @@ import 'package:bottom_navigation_dot/bottom_navigation_dot.dart';
 ### Good luck :heart: 
 
 
-
-
-# bottom-navigation-dot
-
